@@ -1,6 +1,0 @@
-E:\HTML\Homeworks\Homework2\Problem03. Calculator\bin\Problem03.Calculator.dll.config
-E:\HTML\Homeworks\Homework2\Problem03. Calculator\bin\Problem03.Calculator.dll
-E:\HTML\Homeworks\Homework2\Problem03. Calculator\bin\Problem03.Calculator.pdb
-E:\HTML\Homeworks\Homework2\Problem03. Calculator\obj\Debug\Problem03. Calculator.csprojResolveAssemblyReference.cache
-E:\HTML\Homeworks\Homework2\Problem03. Calculator\obj\Debug\Problem03.Calculator.dll
-E:\HTML\Homeworks\Homework2\Problem03. Calculator\obj\Debug\Problem03.Calculator.pdb

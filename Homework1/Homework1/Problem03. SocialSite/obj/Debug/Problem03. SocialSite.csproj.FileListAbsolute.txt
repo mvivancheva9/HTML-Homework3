@@ -1,6 +1,0 @@
-E:\HTML\Homeworks\Homework1\Homework1\Problem03. SocialSite\bin\Problem03.SocialSite.dll.config
-E:\HTML\Homeworks\Homework1\Homework1\Problem03. SocialSite\bin\Problem03.SocialSite.dll
-E:\HTML\Homeworks\Homework1\Homework1\Problem03. SocialSite\bin\Problem03.SocialSite.pdb
-E:\HTML\Homeworks\Homework1\Homework1\Problem03. SocialSite\obj\Debug\Problem03. SocialSite.csprojResolveAssemblyReference.cache
-E:\HTML\Homeworks\Homework1\Homework1\Problem03. SocialSite\obj\Debug\Problem03.SocialSite.dll
-E:\HTML\Homeworks\Homework1\Homework1\Problem03. SocialSite\obj\Debug\Problem03.SocialSite.pdb

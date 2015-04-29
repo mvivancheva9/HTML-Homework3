@@ -1,6 +1,0 @@
-E:\HTML\Homeworks\Homework1\Homework1\Problem01. RunnersHomePage\bin\Problem01.RunnersHomePage.dll.config
-E:\HTML\Homeworks\Homework1\Homework1\Problem01. RunnersHomePage\bin\Problem01.RunnersHomePage.dll
-E:\HTML\Homeworks\Homework1\Homework1\Problem01. RunnersHomePage\bin\Problem01.RunnersHomePage.pdb
-E:\HTML\Homeworks\Homework1\Homework1\Problem01. RunnersHomePage\obj\Debug\Problem01. RunnersHomePage.csprojResolveAssemblyReference.cache
-E:\HTML\Homeworks\Homework1\Homework1\Problem01. RunnersHomePage\obj\Debug\Problem01.RunnersHomePage.dll
-E:\HTML\Homeworks\Homework1\Homework1\Problem01. RunnersHomePage\obj\Debug\Problem01.RunnersHomePage.pdb

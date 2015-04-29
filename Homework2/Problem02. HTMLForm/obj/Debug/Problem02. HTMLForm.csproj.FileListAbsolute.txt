@@ -1,0 +1,6 @@
+E:\HTML\Homeworks\Homework2\Problem02. HTMLForm\bin\Problem02.HTMLForm.dll.config
+E:\HTML\Homeworks\Homework2\Problem02. HTMLForm\bin\Problem02.HTMLForm.dll
+E:\HTML\Homeworks\Homework2\Problem02. HTMLForm\bin\Problem02.HTMLForm.pdb
+E:\HTML\Homeworks\Homework2\Problem02. HTMLForm\obj\Debug\Problem02. HTMLForm.csprojResolveAssemblyReference.cache
+E:\HTML\Homeworks\Homework2\Problem02. HTMLForm\obj\Debug\Problem02.HTMLForm.dll
+E:\HTML\Homeworks\Homework2\Problem02. HTMLForm\obj\Debug\Problem02.HTMLForm.pdb

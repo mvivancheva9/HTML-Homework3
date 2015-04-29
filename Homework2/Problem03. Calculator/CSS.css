@@ -1,0 +1,24 @@
+﻿body {
+}
+button{
+    width: 100%;
+}
+button[name=btNumber] {
+    background-color: aliceblue;
+}
+button[name=btnCalculations] {
+    background-color: lightblue;
+}
+#btnEquals{
+    height: 115%;
+    background-color: darkblue;
+    color: white;
+}
+textarea{
+    background-color: aliceblue;
+    text-align:right;
+    vertical-align:central;
+}
+table{
+    background-color: ThreeDLightShadow    
+}

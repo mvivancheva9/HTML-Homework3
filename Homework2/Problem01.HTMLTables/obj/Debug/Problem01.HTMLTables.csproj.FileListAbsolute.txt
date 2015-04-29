@@ -1,0 +1,6 @@
+E:\HTML\Homeworks\Homework2\Problem01.HTMLTables\bin\Problem01.HTMLTables.dll.config
+E:\HTML\Homeworks\Homework2\Problem01.HTMLTables\bin\Problem01.HTMLTables.dll
+E:\HTML\Homeworks\Homework2\Problem01.HTMLTables\bin\Problem01.HTMLTables.pdb
+E:\HTML\Homeworks\Homework2\Problem01.HTMLTables\obj\Debug\Problem01.HTMLTables.csprojResolveAssemblyReference.cache
+E:\HTML\Homeworks\Homework2\Problem01.HTMLTables\obj\Debug\Problem01.HTMLTables.dll
+E:\HTML\Homeworks\Homework2\Problem01.HTMLTables\obj\Debug\Problem01.HTMLTables.pdb

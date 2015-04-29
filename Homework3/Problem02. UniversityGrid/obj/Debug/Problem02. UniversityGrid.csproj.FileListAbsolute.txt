@@ -1,0 +1,5 @@
+E:\HTML\Homeworks\Homework3\Problem02. UniversityGrid\bin\Problem02.UniversityGrid.dll.config
+E:\HTML\Homeworks\Homework3\Problem02. UniversityGrid\bin\Problem02.UniversityGrid.dll
+E:\HTML\Homeworks\Homework3\Problem02. UniversityGrid\bin\Problem02.UniversityGrid.pdb
+E:\HTML\Homeworks\Homework3\Problem02. UniversityGrid\obj\Debug\Problem02.UniversityGrid.dll
+E:\HTML\Homeworks\Homework3\Problem02. UniversityGrid\obj\Debug\Problem02.UniversityGrid.pdb

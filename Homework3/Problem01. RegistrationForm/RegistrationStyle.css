@@ -1,0 +1,41 @@
+﻿body {
+}
+table {
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  border-spacing:0px;
+}
+
+th, td {
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  border-collapse: collapse;
+  }
+tfoot{
+    background-color: lightblue;
+    text-align:center;
+}
+input[name=names], input[name=email]{
+    width: 90%;
+}
+input[name=city], select[name=country], input[name=birthDate]{
+    width: 60%;
+}
+input[name=state], input[name=countryCode], input[name=areaCode]{
+    width: 20%;
+}
+input[name=number]{
+    margin-left: 5px;
+    width: 40%;
+}
+input[name=code]{
+    width: 30%;
+}
+textarea[name=address]{
+    width: 85%;
+    height: 60px;
+}
+textarea[name=comments]{
+    width: 85%;
+    height: 100px;
+}

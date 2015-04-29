@@ -1,0 +1,5 @@
+E:\HTML\Homeworks\Homework3\Problem03. NotebookStore\bin\Problem03.NotebookStore.dll.config
+E:\HTML\Homeworks\Homework3\Problem03. NotebookStore\bin\Problem03.NotebookStore.dll
+E:\HTML\Homeworks\Homework3\Problem03. NotebookStore\bin\Problem03.NotebookStore.pdb
+E:\HTML\Homeworks\Homework3\Problem03. NotebookStore\obj\Debug\Problem03.NotebookStore.dll
+E:\HTML\Homeworks\Homework3\Problem03. NotebookStore\obj\Debug\Problem03.NotebookStore.pdb

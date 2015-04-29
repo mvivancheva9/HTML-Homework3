@@ -1,0 +1,6 @@
+E:\HTML\Homeworks\Homework3\Problem01. RegistrationForm\bin\Problem01.RegistrationForm.dll.config
+E:\HTML\Homeworks\Homework3\Problem01. RegistrationForm\bin\Problem01.RegistrationForm.dll
+E:\HTML\Homeworks\Homework3\Problem01. RegistrationForm\bin\Problem01.RegistrationForm.pdb
+E:\HTML\Homeworks\Homework3\Problem01. RegistrationForm\obj\Debug\Problem01. RegistrationForm.csprojResolveAssemblyReference.cache
+E:\HTML\Homeworks\Homework3\Problem01. RegistrationForm\obj\Debug\Problem01.RegistrationForm.dll
+E:\HTML\Homeworks\Homework3\Problem01. RegistrationForm\obj\Debug\Problem01.RegistrationForm.pdb

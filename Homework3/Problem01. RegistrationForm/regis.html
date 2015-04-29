@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registation Form</title>
+    <link href="RegistrationStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <table>
+            <colgroup>
+                <col width="150px" />
+                <col width="250ox" />
+            </colgroup>
+            <tfoot>
+                <tr>
+                    <td colspan="2">
+                        <button>Submit</button>
+                        <input type="reset" value="Clean This Form" />
+                    </td>
+
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <th>Last Name</th>
+                    <td>
+                        <input type="text" name="names"/>
+                    </td>
+                </tr>
+                <tr>
+                    <th>First Name</th>
+                    <td>
+                        <input type="text" name="names" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Address</th>
+                    <td>
+                        <textarea name="address"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <th>City</th>
+                    <td>
+                        <input type="text" name="city"/>
+                        <label for="state">State</label>
+                        <input type="text" name="state" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Zip/Postal Code</th>
+                    <td>
+                        <input type="text" name="code"/>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Country</th>
+                    <td>
+                        <select name="country">
+                            <option value="1">Bulgaria</option>
+                            <option value="2">Russia</option>
+                            <option value="3">Ukraine</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Phone(country code, area code, number)</th>
+                    <td>
+                        (+<input type="text" name="countryCode"/>)<input type="text" name="areaCode"/><input type="text" name="number" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td>
+                        <input type="text" name="email"/>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Birth date</th>
+                    <td>
+                        <input type="text" value="дд.мм.гггг г." name="birthDate"/>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Gender</th>
+                    <td>
+                        <select name="gender">
+                            <option value="1">Male</option>
+                            <option value="2">Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Starting date</th>
+                    <td>
+                        <input type="radio" name="strtDate" id="spring2015" />
+                        <label for="spring2015">Spring 2015</label>
+                        <input type="radio" name="strtDate" id="summer2015" />
+                        <label for="summer2015">Summer 2015</label>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Comments/Questions</th>
+                    <td>
+                        <textarea name="comments"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

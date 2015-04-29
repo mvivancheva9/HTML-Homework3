@@ -1,0 +1,6 @@
+E:\HTML\Homeworks\Homework1\Homework1\Problem02. NestedLists\bin\Problem02.NestedLists.dll.config
+E:\HTML\Homeworks\Homework1\Homework1\Problem02. NestedLists\bin\Problem02.NestedLists.dll
+E:\HTML\Homeworks\Homework1\Homework1\Problem02. NestedLists\bin\Problem02.NestedLists.pdb
+E:\HTML\Homeworks\Homework1\Homework1\Problem02. NestedLists\obj\Debug\Problem02.NestedLists.dll
+E:\HTML\Homeworks\Homework1\Homework1\Problem02. NestedLists\obj\Debug\Problem02.NestedLists.pdb
+E:\HTML\Homeworks\Homework1\Homework1\Problem02. NestedLists\obj\Debug\Problem02. NestedLists.csprojResolveAssemblyReference.cache
